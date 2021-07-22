@@ -1,0 +1,7 @@
+.terraform*
+.env
+lambda/.env
+lambda/.bundle
+lambda/vendor
+lambda.zip
+terraform.tfstate*
